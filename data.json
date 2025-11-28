@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "id": 1764326821276,
+      "title": "نرؤ-يا",
+      "description": "سحخبت",
+      "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400&h=250&fit=crop",
+      "type": "إطلاق",
+      "date": "2025-11-28",
+      "urgent": false
+    },
+    {
       "id": 1764326676738,
       "title": "مرحبا من github",
       "description": "صارت الملفات تقرأ من github وتعرض ب netlify",
