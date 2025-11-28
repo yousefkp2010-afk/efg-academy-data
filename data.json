@@ -1,83 +1,23 @@
 {
   "news": [
     {
-      "id": 1,
-      "title": "مرحباً بك في EFG Academy! 🎉",
-      "description": "منصة تعليم اللغات الجديدة متاحة الآن للجميع مجاناً",
-      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=400&h=250&fit=crop",
+      "id": 1764326676738,
+      "title": "مرحبا من github",
+      "description": "صارت الملفات تقرأ من github وتعرض ب netlify",
+      "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400&h=250&fit=crop",
       "type": "إطلاق",
-      "date": "2024-01-20",
+      "date": "2025-11-28",
       "urgent": false
     }
   ],
   "courses": {
-    "english": {
-      "A1": {
-        "title": "المستوى A1 - المبتدئ",
-        "description": "ابدأ رحلتك في تعلم الإنجليزية من الصفر",
-        "youtubeLink": "https://youtube.com",
-        "telegramGroup": "https://t.me",
-        "image": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=400&h=300&fit=crop",
-        "status": "مكتمل"
-      },
-      "A2": {
-        "title": "المستوى A2 - الأساسي",
-        "description": "طور مهاراتك الأساسية في الإنجليزية",
-        "youtubeLink": "https://youtube.com",
-        "telegramGroup": "https://t.me",
-        "image": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=400&h=300&fit=crop",
-        "status": "جاري التجهيز"
-      }
-    },
-    "german": {
-      "A1": {
-        "title": "المستوى A1 - المبتدئ",
-        "description": "ابدأ تعلم الألمانية من الصفر",
-        "youtubeLink": "https://youtube.com",
-        "telegramGroup": "https://t.me",
-        "image": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=400&h=300&fit=crop",
-        "status": "قريباً"
-      }
-    },
-    "french": {
-      "A1": {
-        "title": "المستوى A1 - المبتدئ",
-        "description": "ابدأ تعلم الفرنسية من الصفر",
-        "youtubeLink": "https://youtube.com",
-        "telegramGroup": "https://t.me",
-        "image": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=400&h=300&fit=crop",
-        "status": "قيد التطوير"
-      }
-    }
-  },
-  "lessons": {
-    "english": {
-      "A1": [
-        {
-          "id": 1,
-          "title": "الدرس الأول: التعريف بالنفس 👋",
-          "description": "تعلم كيفية تقديم نفسك والتعريف بالآخرين باللغة الإنجليزية",
-          "youtubeLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-          "image": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=400&h=250&fit=crop",
-          "duration": "15:30",
-          "order": 1
-        },
-        {
-          "id": 2,
-          "title": "الدرس الثاني: الأرقام والألوان 🔢",
-          "description": "تعلم الأرقام من 1 إلى 100 والألوان الأساسية",
-          "youtubeLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-          "image": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=400&h=250&fit=crop",
-          "duration": "18:45",
-          "order": 2
-        }
-      ]
-    },
+    "english": {},
     "german": {},
     "french": {}
   },
-  "contact": {
-    "youtube": "https://youtube.com/c/EFGAcademy",
-    "telegram": "https://t.me/EFGAcademy"
+  "lessons": {
+    "english": {},
+    "german": {},
+    "french": {}
   }
 }
