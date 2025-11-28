@@ -25,7 +25,19 @@
     "french": {}
   },
   "lessons": {
-    "english": {},
+    "english": {
+      "A1": [
+        {
+          "id": 1764327140511,
+          "title": "gitgub",
+          "description": "meaw",
+          "youtubeLink": "https://www.youtube.com/watch?v=english_a1_1",
+          "image": "https://www.pexels.com/photo/brown-hummingbird-selective-focus-photography-1133957/",
+          "duration": "15:30",
+          "order": 1
+        }
+      ]
+    },
     "german": {},
     "french": {}
   }
